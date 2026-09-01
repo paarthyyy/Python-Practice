@@ -8,10 +8,10 @@ elif c=='-':
     print(a, "-", b, "=", a - b)
 elif c=='*':
     print(a, "*", b, "=", a * b)
-elif c=='/':
+elif c=='/'
     if b==0:
         print("Cannot divide by zero.")
     else:
         print(a, "/", b, "=", a / b)
 else:
-    print("Invalid operator")
+    print("Invalid operator.")
