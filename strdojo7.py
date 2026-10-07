@@ -42,5 +42,4 @@ class Solution:
 
 
 sol = Solution()
->>>>>>> 0981ad8685c870ca7bf0ce4be72d496e180f8ead
-print(sol.reverse_word("Let's take LeetCode contest"))
+>>>>>>> 0981ad8685c870ca7bf0ce4be72d496e180f8ead print(sol.reverse_word("Let's take LeetCode contest"))
