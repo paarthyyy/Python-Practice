@@ -1,0 +1,5 @@
+print("Hello!")
+print("paarth")
+print("nagpur")
+print("physics")
+print("i like physics because it is very interesting")
