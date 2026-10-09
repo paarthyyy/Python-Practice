@@ -26,3 +26,4 @@ The repository contains a variety of scripts covering fundamental concepts, prob
 ## 🛠️ Usage
 
 Feel free to browse, explore, or run any of the `.py` files to see different implementations of Python concepts and algorithms!
+
